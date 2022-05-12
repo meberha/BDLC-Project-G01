@@ -1,3 +1,6 @@
+# Git has a 2GB size limit
+Dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
